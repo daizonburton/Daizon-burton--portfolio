@@ -1,0 +1,2 @@
+# Daizon-burton--portfolio
+Hello to the people that see this repo I am a new software dev student that goes to anthis and at the moment im learning how to program in python. my name is Daizon Burton I am a student athlete at Wayne highschool in Fort Wayne, Indiana i do basketball and track thinking about doing football but i thought it was too late at this point. I took an interese in software devlopment when I went on the anthis field trip last year when I was a sophmore and now im just trying to do my best at being a programmer and see how far it takes me.
